@@ -8,6 +8,8 @@ See the Youtube tutorials here: (https://www.youtube.com/channel/UChKtou5Z4FzrTi
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+Move to the folder `src/assets` and then run `node server.js` to run the server application, which will listen for socket communications. This will listen in port 3000. Make sure it's available.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
