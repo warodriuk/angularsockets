@@ -1,6 +1,8 @@
-# AngularSockets
+# Angular 8 Sockets
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
+In this tutorial you will see how to create from scratch an Angular 8 application, a Node JS server using Socket IO and communicate them. We show how to use SSL and set it ready to use it in your server.
+
+See the Youtube tutorials here: (https://www.youtube.com/channel/UChKtou5Z4FzrTinBatxZCfQ/playlists)
 
 ## Development server
 
